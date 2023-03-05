@@ -1,0 +1,23 @@
+#navlogo{
+    position:absolute;
+    top:-16px;
+    width:131px;
+    height:131px;
+    overflow:hidden;
+    min-width:80px;
+    min-height:80px;
+}
+
+#navlogo-scroll{
+    position:absolute;
+    top:-11px;
+    width:60px;
+    height:60px;
+    overflow:hidden;
+    min-width:80px;
+    min-height:80px;
+}
+
+#navlog-resposive {
+    
+}
